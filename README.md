@@ -26,6 +26,8 @@
 
 - A validação de dados precisa ser implementada em diversas etapas. Talvez uma função para validar os dados 
 
+- A senha não fica oculta de verdade quando é digitada. Ela é só um texto preto num fundo preto 😅
+
 \
 💻 [Digital Innovation One](https://web.digitalinnovation.one/home)
 
