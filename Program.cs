@@ -10,17 +10,6 @@ namespace Transferências_bancárias
 
         static void Main(string[] args)
         {
-            ////// TESTE
-            Conta conta = new Conta("Eduardo",0,100,200,"senha",TipoConta.Física);
-            listContas.Add(conta);
-            ////// TESTE
-            Conta conta2 = new Conta("Seity",0,300,200,"senha",TipoConta.Física);
-            listContas.Add(conta2);
-            ////// TESTE
-            Conta conta3 = new Conta("Iseri",0,200,400,"senha",TipoConta.Física);
-            listContas.Add(conta3);
-            ///////////////
-
             Console.BackgroundColor = ConsoleColor.Black;
             Console.Clear();
             opcao = menuInicial();
