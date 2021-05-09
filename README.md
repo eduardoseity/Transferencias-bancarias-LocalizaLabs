@@ -4,6 +4,10 @@
 
 ### O programa simula o cadastro de uma conta bancária fictícia e realiza transferências, depósitos e saques
 
+<br/><br/>
+
+# Funcionalidades
+
 - [x] Cadastro de contas
 - [x] Saque
 - [x] Depósito
