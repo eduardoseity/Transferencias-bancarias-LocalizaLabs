@@ -4,16 +4,25 @@
 
 ### O programa simula o cadastro de uma conta bancária fictícia e realiza transferências, depósitos e saques
 
-<br/><br/>
+<br/>
 
 # Funcionalidades
 
-- [x] Cadastro de contas
-- [x] Saque
-- [x] Depósito
-- [x] Transferência
+- [x] Cadastro de contas [09/05/21 👍]
+- [x] Saque [09/05/21 👍]
+- [x] Depósito [09/05/21 👍]
+- [x] Transferência [09/05/21 👍]
 - [ ] Exclusão de contas
-- [ ] Cadastro de senha
+- [x] Cadastro de senha [09/05/21 👍]
+- [ ] Login e logout
+
+<br/>
+
+# Problemas conhecidos
+
+- Se a pessoa esquecer a senha ela cai num loop infinito, pois não há um comando para cancelar a operação
+
+- A validação de dados precisa ser implementada em diversas etapas. Talvez uma função para validar os dados 🤔
 
 \
 💻 [Digital Innovation One](https://web.digitalinnovation.one/home)

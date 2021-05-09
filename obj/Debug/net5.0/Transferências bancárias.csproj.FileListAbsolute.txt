@@ -1,0 +1,15 @@
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/bin/Debug/net5.0/Transferências bancárias.dll
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/bin/Debug/net5.0/Transferências bancárias.pdb
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/obj/Debug/net5.0/Transferências bancárias.csprojAssemblyReference.cache
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/obj/Debug/net5.0/Transferências bancárias.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/obj/Debug/net5.0/Transferências bancárias.AssemblyInfoInputs.cache
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/obj/Debug/net5.0/Transferências bancárias.AssemblyInfo.cs
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/obj/Debug/net5.0/Transferências bancárias.csproj.CoreCompileInputs.cache
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/obj/Debug/net5.0/Transferências bancárias.dll
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/obj/Debug/net5.0/ref/Transferências bancárias.dll
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/obj/Debug/net5.0/Transferências bancárias.pdb
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/bin/Debug/net5.0/Transferências bancárias.deps.json
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/bin/Debug/net5.0/Transferências bancárias.runtimeconfig.json
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/bin/Debug/net5.0/Transferências bancárias.runtimeconfig.dev.json
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/bin/Debug/net5.0/ref/Transferências bancárias.dll
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Transferências bancárias/obj/Debug/net5.0/Transferências bancárias.genruntimeconfig.cache
